@@ -48,3 +48,4 @@ streamlit run streamlit_app.py
 
 ## 📄 License
 MIT
+st.sidebar.caption("👨‍💻 Developer: Sudev Patra")
