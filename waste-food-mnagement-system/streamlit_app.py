@@ -237,6 +237,7 @@ claims_df["claim_date"] = pd.to_datetime(claims_df["claim_date"], errors="coerce
 
 # ─── Sidebar ─────────────────────────────────────────────────────────────────
 with st.sidebar:
+    st.markdown("## 👩🏻‍💻 BY SUDEV PATRA")
     st.markdown("## 🌿 FoodSave Analytics")
     st.caption(f"Data source: **{data_source}**")
     st.markdown("---")
